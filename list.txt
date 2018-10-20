@@ -1,0 +1,20 @@
+PAPERS:
+Vingean Reflection: Reliable Reasoning for Self-Improving Agents
+https://intelligence.org/files/VingeanReflection.pdf
+
+A simple neural network module for relational reasoning
+https://arxiv.org/abs/1706.01427
+
+
+
+BOOKS:
+Search and Optimization by Metaheuristics
+https://www.springer.com/us/book/9783319411910
+
+Understanding Machine Learning: From Theory to Algorithms
+https://smile.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132
+
+Superintelligence: Paths, Dangers, Strategies
+https://smile.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111/
+
+
